@@ -1,4 +1,5 @@
 # Bilal_Aslam_resume
 Latex resume of popular deedy template reworked.
 
-Throws parsing error due to updates in ATS softwares. 
+Warning:
+Might possibly throw parsing errors due to changes in some ATS softwares. 
